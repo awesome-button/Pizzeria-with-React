@@ -1,0 +1,40 @@
+{
+  "pizzas": [
+    {
+      "name": "Padana",
+      "ingredients": "Paprika, smoked salami, mozarella, and parmesan",
+      "price": "450 rubles",
+      "id": 1
+    },
+    {
+      "name": "Piccanta",
+      "ingredients": "Tomato, spicy salami, mozarella, and parsley",
+      "price": "450 rubles",
+      "id": 2
+    },
+    {
+      "name": "Margerita",
+      "ingredients": "Tomato sauce, mozarella, oregano, and fresh tomatoes",
+      "price": "400 rubles",
+      "id": 3
+    },
+    {
+      "name": "Carbonara",
+      "ingredients": "Tomato sauce, mozzarella, parmesan, eggs, and bacon",
+      "price": "550 rubles",
+      "id": 4
+    },
+    {
+      "name": "Bufalina",
+      "ingredients": "Tomato sauce, Buffalo mozzarella, basil, and oregano",
+      "price": "600 rubles",
+      "id": 5
+    },
+    {
+      "name": "Braccio di Ferro",
+      "ingredients": "Mozzarella, red onions, ricotta cheese, and parmesan",
+      "price": "500 rubles",
+      "id": 6
+    }
+  ]
+}
